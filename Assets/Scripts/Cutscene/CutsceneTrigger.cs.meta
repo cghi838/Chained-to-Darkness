@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da0bc8fc92b36f5459537462e4b6911b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoPlayer: {instanceID: 0}
+  - cutsceneCanvas: {instanceID: 0}
+  - playerController: {instanceID: 0}
+  - cutsceneRoom: {fileID: 6275168215445817641, guid: cb62259695d0afc4a984c1274f22e014, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

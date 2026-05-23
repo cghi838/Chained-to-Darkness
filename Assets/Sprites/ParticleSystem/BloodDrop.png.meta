@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 3d3c4f2792f94d5488396814fb7261dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2493255011976541009
+    second: BloodDrop_0
+  - first:
+      213: 5069738823009980727
+    second: BloodDrop_1
+  - first:
+      213: 5108685969370288241
+    second: BloodDrop_2
+  - first:
+      213: 3273053921861524778
+    second: BloodDrop_3
+  - first:
+      213: 8695230887733693929
+    second: BloodDrop_4
+  - first:
+      213: 5499759644912198180
+    second: BloodDrop_5
+  - first:
+      213: 2109766441628525114
+    second: BloodDrop_6
+  - first:
+      213: -5787817038434359433
+    second: BloodDrop_7
+  - first:
+      213: -8418393136723820861
+    second: BloodDrop_8
+  - first:
+      213: -949201479781013971
+    second: BloodDrop_9
+  - first:
+      213: 5955442920233013111
+    second: BloodDrop_10
+  - first:
+      213: -2281581472576838556
+    second: BloodDrop_11
+  - first:
+      213: -8160707664670134704
+    second: BloodDrop_12
+  - first:
+      213: -135017599027695542
+    second: BloodDrop_13
+  - first:
+      213: -2590736656357823836
+    second: BloodDrop_14
+  - first:
+      213: 3172028515209021634
+    second: BloodDrop_15
+  - first:
+      213: 8894928794972588760
+    second: BloodDrop_16
+  - first:
+      213: 252082236961998
+    second: BloodDrop_17
+  - first:
+      213: -1123001853210204632
+    second: BloodDrop_18
+  - first:
+      213: -5832012274278731429
+    second: BloodDrop_19
+  - first:
+      213: -1424666408714229705
+    second: BloodDrop_20
+  - first:
+      213: 1437623244244019258
+    second: BloodDrop_21
+  - first:
+      213: 4030520774932280413
+    second: BloodDrop_22
+  - first:
+      213: 5266915774173220916
+    second: BloodDrop_23
+  - first:
+      213: -6812526457797380238
+    second: BloodDrop_24
+  - first:
+      213: -6948877244118692784
+    second: BloodDrop_25
+  - first:
+      213: -6393248318021784811
+    second: BloodDrop_26
+  - first:
+      213: 2036658154725796297
+    second: BloodDrop_27
+  - first:
+      213: -8378949624881556446
+    second: BloodDrop_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodDrop_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 411
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac0da4c6cd266dd0800000000000000
+      internalID: -2493255011976541009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 370
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731548159945b5640800000000000000
+      internalID: 5069738823009980727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 397
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170965972d2b5e640800000000000000
+      internalID: 5108685969370288241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 394
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d514753393c6d20800000000000000
+      internalID: 3273053921861524778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 380
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed0f5f4c6aaba870800000000000000
+      internalID: 8695230887733693929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 393
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42225011242135c40800000000000000
+      internalID: 5499759644912198180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 451
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32ee409665674d10800000000000000
+      internalID: 2109766441628525114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 384
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777aa27911b8dafa0800000000000000
+      internalID: -5787817038434359433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce7df17b0cdb2b80800000000000000
+      internalID: -8418393136723820861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 380
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26a0618842c3d2f0800000000000000
+      internalID: -949201479781013971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 317
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f8a9c58cbf5a250800000000000000
+      internalID: 5955442920233013111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 315
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464e1f03db13650e0800000000000000
+      internalID: -2281581472576838556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e6783cd975fbe80800000000000000
+      internalID: -8160707664670134704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 270
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4037838532502ef0800000000000000
+      internalID: -135017599027695542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 245
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa6533ccbadb0cd0800000000000000
+      internalID: -2590736656357823836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 218
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c88172e02f450c20800000000000000
+      internalID: 3172028515209021634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 12
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da0cb69c92217b70800000000000000
+      internalID: 8894928794972588760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec430387445e00000800000000000000
+      internalID: 252082236961998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 174
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ec41b3cb4a60f0800000000000000
+      internalID: -1123001853210204632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 138
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f5e16cb7801fa0800000000000000
+      internalID: -5832012274278731429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 112
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738282113719a3ce0800000000000000
+      internalID: -1424666408714229705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38620a49b673f310800000000000000
+      internalID: 1437623244244019258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 89
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54bba94a494fe730800000000000000
+      internalID: 4030520774932280413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301f75cdf7d71940800000000000000
+      internalID: 5266915774173220916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 92
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277790ce74b0571a0800000000000000
+      internalID: -6812526457797380238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c828496f0a09f90800000000000000
+      internalID: -6948877244118692784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 90
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ba273178e9647a0800000000000000
+      internalID: -6393248318021784811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c965511dc9a34c10800000000000000
+      internalID: 2036658154725796297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodDrop_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224da02b5bdf7bb80800000000000000
+      internalID: -8378949624881556446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BloodDrop_0: -2493255011976541009
+      BloodDrop_1: 5069738823009980727
+      BloodDrop_10: 5955442920233013111
+      BloodDrop_11: -2281581472576838556
+      BloodDrop_12: -8160707664670134704
+      BloodDrop_13: -135017599027695542
+      BloodDrop_14: -2590736656357823836
+      BloodDrop_15: 3172028515209021634
+      BloodDrop_16: 8894928794972588760
+      BloodDrop_17: 252082236961998
+      BloodDrop_18: -1123001853210204632
+      BloodDrop_19: -5832012274278731429
+      BloodDrop_2: 5108685969370288241
+      BloodDrop_20: -1424666408714229705
+      BloodDrop_21: 1437623244244019258
+      BloodDrop_22: 4030520774932280413
+      BloodDrop_23: 5266915774173220916
+      BloodDrop_24: -6812526457797380238
+      BloodDrop_25: -6948877244118692784
+      BloodDrop_26: -6393248318021784811
+      BloodDrop_27: 2036658154725796297
+      BloodDrop_28: -8378949624881556446
+      BloodDrop_3: 3273053921861524778
+      BloodDrop_4: 8695230887733693929
+      BloodDrop_5: 5499759644912198180
+      BloodDrop_6: 2109766441628525114
+      BloodDrop_7: -5787817038434359433
+      BloodDrop_8: -8418393136723820861
+      BloodDrop_9: -949201479781013971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50f49dc45e99de34f8ea2cf5f63087bb, type: 3}
+  m_Name: PainfulMemoryFragment
+  m_EditorClassIdentifier: Assembly-CSharp::MemoryFragment
+  fragmentName: PainfulMemoryFragment
+  icon: {fileID: 21300000, guid: f143a1d99232f1c41a45597faa31dbf2, type: 3}
+  sound: {fileID: 2571628074665031925, guid: 3115223f639300c4f88b0fce81759872, type: 3}
+  healthHealOrDamage: -10
+  sanityHealOrDamage: -20

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87b08cc9babed764fb895cfe6e285406
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogueText: {instanceID: 0}
+  - playerFont: {fileID: 11400000, guid: 170b6b0f060618d46aa61a48b4ec7cc4, type: 2}
+  - enemyFont: {fileID: 11400000, guid: 0e9c5fa179bda644eace5fd890bd0332, type: 2}
+  - narratorFont: {fileID: 11400000, guid: c35ca73a597c46041b94a057ba817ae4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

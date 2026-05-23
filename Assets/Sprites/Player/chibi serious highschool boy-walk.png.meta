@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 96d646b916ed53e4a9f422d7dfbf6123
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5701233097682602475
+    second: chibi serious highschool boy-walk_0
+  - first:
+      213: -4575040179186694137
+    second: chibi serious highschool boy-walk_1
+  - first:
+      213: -1008180878243171055
+    second: chibi serious highschool boy-walk_2
+  - first:
+      213: -594609850270795752
+    second: chibi serious highschool boy-walk_3
+  - first:
+      213: -9054184395640306873
+    second: chibi serious highschool boy-walk_4
+  - first:
+      213: -881866195319433539
+    second: chibi serious highschool boy-walk_5
+  - first:
+      213: -3416138051245475692
+    second: chibi serious highschool boy-walk_6
+  - first:
+      213: -5792854621882835472
+    second: chibi serious highschool boy-walk_7
+  - first:
+      213: -6217856494840207430
+    second: chibi serious highschool boy-walk_8
+  - first:
+      213: -8623114457633572853
+    second: chibi serious highschool boy-walk_9
+  - first:
+      213: -3432217590469444333
+    second: chibi serious highschool boy-walk_10
+  - first:
+      213: 1973022717093088264
+    second: chibi serious highschool boy-walk_11
+  - first:
+      213: 1850867840172298390
+    second: chibi serious highschool boy-walk_12
+  - first:
+      213: -453420053594654672
+    second: chibi serious highschool boy-walk_13
+  - first:
+      213: -2179904834779459338
+    second: chibi serious highschool boy-walk_14
+  - first:
+      213: -8897052960489269729
+    second: chibi serious highschool boy-walk_15
+  - first:
+      213: 9064399151262039993
+    second: chibi serious highschool boy-walk_16
+  - first:
+      213: 6772582149142640595
+    second: chibi serious highschool boy-walk_17
+  - first:
+      213: 8589132262103261308
+    second: chibi serious highschool boy-walk_18
+  - first:
+      213: 8880145164331737410
+    second: chibi serious highschool boy-walk_19
+  - first:
+      213: 7192269702213434986
+    second: chibi serious highschool boy-walk_20
+  - first:
+      213: 7226873475844006318
+    second: chibi serious highschool boy-walk_21
+  - first:
+      213: -5047576321278561654
+    second: chibi serious highschool boy-walk_22
+  - first:
+      213: 7105914831894568806
+    second: chibi serious highschool boy-walk_23
+  - first:
+      213: 5661771412956441403
+    second: chibi serious highschool boy-walk_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1057
+        width: 93
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be94211cb49de1f40800000000000000
+      internalID: 5701233097682602475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1056
+        width: 90
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708007652313280c0800000000000000
+      internalID: -4575040179186694137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1054
+        width: 84
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11579f235d83202f0800000000000000
+      internalID: -1008180878243171055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_3
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1054
+        width: 83
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81839a6dd758fb7f0800000000000000
+      internalID: -594609850270795752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_4
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1055
+        width: 83
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74389f66343195280800000000000000
+      internalID: -9054184395640306873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 800
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db65f802e5bf2c3f0800000000000000
+      internalID: -881866195319433539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 801
+        width: 89
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49871d7ba807790d0800000000000000
+      internalID: -3416138051245475692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 84
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd913bc965ab9fa0800000000000000
+      internalID: -5792854621882835472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 800
+        width: 84
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7a1b8267cb5b9a0800000000000000
+      internalID: -6217856494840207430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 799
+        width: 84
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b083737861b845880800000000000000
+      internalID: -8623114457633572853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 544
+        width: 88
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db83049405e50d0800000000000000
+      internalID: -3432217590469444333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 543
+        width: 93
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c0c1a25b5916b10800000000000000
+      internalID: 1973022717093088264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_12
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 542
+        width: 86
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6901aab8e7a9fa910800000000000000
+      internalID: 1850867840172298390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_13
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 542
+        width: 84
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b3731dd025b9f0800000000000000
+      internalID: -453420053594654672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_14
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 542
+        width: 83
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f050d63a1c6fb1e0800000000000000
+      internalID: -2179904834779459338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 287
+        width: 84
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1613369871578480800000000000000
+      internalID: -8897052960489269729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 89
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf7359b0073bcd70800000000000000
+      internalID: 9064399151262039993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 288
+        width: 89
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d77ccbf49b0dfd50800000000000000
+      internalID: 6772582149142640595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_18
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 288
+        width: 84
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702383094ab23770800000000000000
+      internalID: 8589132262103261308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_19
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 287
+        width: 84
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24165e95afc9c3b70800000000000000
+      internalID: 8880145164331737410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 84
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e7c39103310d360800000000000000
+      internalID: 7192269702213434986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 84
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1ef5cf2230b4460800000000000000
+      internalID: 7226873475844006318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_22
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 33
+        width: 90
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82b489341863f9b0800000000000000
+      internalID: -5047576321278561654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_23
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 31
+        width: 93
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f514f04e74d9260800000000000000
+      internalID: 7105914831894568806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-walk_24
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 30
+        width: 84
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3beabc4a17a29e40800000000000000
+      internalID: 5661771412956441403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chibi serious highschool boy-walk_0: 5701233097682602475
+      chibi serious highschool boy-walk_1: -4575040179186694137
+      chibi serious highschool boy-walk_10: -3432217590469444333
+      chibi serious highschool boy-walk_11: 1973022717093088264
+      chibi serious highschool boy-walk_12: 1850867840172298390
+      chibi serious highschool boy-walk_13: -453420053594654672
+      chibi serious highschool boy-walk_14: -2179904834779459338
+      chibi serious highschool boy-walk_15: -8897052960489269729
+      chibi serious highschool boy-walk_16: 9064399151262039993
+      chibi serious highschool boy-walk_17: 6772582149142640595
+      chibi serious highschool boy-walk_18: 8589132262103261308
+      chibi serious highschool boy-walk_19: 8880145164331737410
+      chibi serious highschool boy-walk_2: -1008180878243171055
+      chibi serious highschool boy-walk_20: 7192269702213434986
+      chibi serious highschool boy-walk_21: 7226873475844006318
+      chibi serious highschool boy-walk_22: -5047576321278561654
+      chibi serious highschool boy-walk_23: 7105914831894568806
+      chibi serious highschool boy-walk_24: 5661771412956441403
+      chibi serious highschool boy-walk_3: -594609850270795752
+      chibi serious highschool boy-walk_4: -9054184395640306873
+      chibi serious highschool boy-walk_5: -881866195319433539
+      chibi serious highschool boy-walk_6: -3416138051245475692
+      chibi serious highschool boy-walk_7: -5792854621882835472
+      chibi serious highschool boy-walk_8: -6217856494840207430
+      chibi serious highschool boy-walk_9: -8623114457633572853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

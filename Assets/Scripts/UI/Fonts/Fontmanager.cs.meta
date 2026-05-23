@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b7102c46ff0265d4fbcd710cd880ce39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCharacterFont: {fileID: 11400000, guid: 170b6b0f060618d46aa61a48b4ec7cc4, type: 2}
+  - momBossFont: {fileID: 11400000, guid: 0e9c5fa179bda644eace5fd890bd0332, type: 2}
+  - momPostGameFont: {fileID: 11400000, guid: 3b4422ff469b82f49928991541cceab2, type: 2}
+  - fatherFont: {fileID: 11400000, guid: ca7221f19666b5849a47c6faf1e5ec8c, type: 2}
+  - titleScreenFont: {fileID: 11400000, guid: c35ca73a597c46041b94a057ba817ae4, type: 2}
+  - sanityMaxFont: {fileID: 11400000, guid: 4a5132956b5d5b2418a9df4b14abd1ed, type: 2}
+  - sanityZeroFont: {fileID: 11400000, guid: 3b4422ff469b82f49928991541cceab2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

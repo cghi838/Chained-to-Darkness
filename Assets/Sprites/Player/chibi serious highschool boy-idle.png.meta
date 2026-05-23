@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 9111655107b9f4742ae6baff1731f60b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8794918592955422502
+    second: chibi serious highschool boy-idle_0
+  - first:
+      213: 7855718318236990306
+    second: chibi serious highschool boy-idle_1
+  - first:
+      213: 7029872922739682387
+    second: chibi serious highschool boy-idle_2
+  - first:
+      213: 1059690175417517069
+    second: chibi serious highschool boy-idle_3
+  - first:
+      213: 6585664024242178431
+    second: chibi serious highschool boy-idle_4
+  - first:
+      213: 5425631984425755125
+    second: chibi serious highschool boy-idle_5
+  - first:
+      213: 8492672772937713306
+    second: chibi serious highschool boy-idle_6
+  - first:
+      213: -3915760271962120109
+    second: chibi serious highschool boy-idle_7
+  - first:
+      213: 2045575376768499098
+    second: chibi serious highschool boy-idle_8
+  - first:
+      213: -8697532970851217071
+    second: chibi serious highschool boy-idle_9
+  - first:
+      213: 1232202491261771650
+    second: chibi serious highschool boy-idle_10
+  - first:
+      213: -1426101705973148231
+    second: chibi serious highschool boy-idle_11
+  - first:
+      213: -1696920041847160568
+    second: chibi serious highschool boy-idle_12
+  - first:
+      213: 7749842086011861044
+    second: chibi serious highschool boy-idle_13
+  - first:
+      213: 2246362913397556266
+    second: chibi serious highschool boy-idle_14
+  - first:
+      213: -3884345294103877574
+    second: chibi serious highschool boy-idle_15
+  - first:
+      213: -1537505369576040728
+    second: chibi serious highschool boy-idle_16
+  - first:
+      213: 5384153959767061598
+    second: chibi serious highschool boy-idle_17
+  - first:
+      213: 273702548298904599
+    second: chibi serious highschool boy-idle_18
+  - first:
+      213: 7784183269466476787
+    second: chibi serious highschool boy-idle_19
+  - first:
+      213: 5362319471933638491
+    second: chibi serious highschool boy-idle_20
+  - first:
+      213: -430787863626747930
+    second: chibi serious highschool boy-idle_21
+  - first:
+      213: -4469386610183048581
+    second: chibi serious highschool boy-idle_22
+  - first:
+      213: -8201768209243424044
+    second: chibi serious highschool boy-idle_23
+  - first:
+      213: 3905460842626280332
+    second: chibi serious highschool boy-idle_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1055
+        width: 82
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8e96e132c22f580800000000000000
+      internalID: -8794918592955422502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1055
+        width: 82
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7b06603e150d60800000000000000
+      internalID: 7855718318236990306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1055
+        width: 81
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c29086d202f8160800000000000000
+      internalID: 7029872922739682387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_3
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1055
+        width: 81
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d048bbd9996c4be00800000000000000
+      internalID: 1059690175417517069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_4
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1055
+        width: 81
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f794607a98af46b50800000000000000
+      internalID: 6585664024242178431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 799
+        width: 82
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1e1b92b87bb4b40800000000000000
+      internalID: 5425631984425755125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 799
+        width: 81
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96859014e80cd570800000000000000
+      internalID: 8492672772937713306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_7
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 799
+        width: 82
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3506c1c77cc68a9c0800000000000000
+      internalID: -3915760271962120109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 799
+        width: 82
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d729d97f7536c10800000000000000
+      internalID: 2045575376768499098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_9
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 799
+        width: 83
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1515a2238d72c4780800000000000000
+      internalID: -8697532970851217071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 543
+        width: 83
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f520723a9a91110800000000000000
+      internalID: 1232202491261771650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 543
+        width: 83
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b554e1ed08753ce0800000000000000
+      internalID: -1426101705973148231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 543
+        width: 82
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801857d66345378e0800000000000000
+      internalID: -1696920041847160568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 543
+        width: 82
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438fb1a1158fc8b60800000000000000
+      internalID: 7749842086011861044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_14
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 543
+        width: 82
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a244ca10b2fac2f10800000000000000
+      internalID: 2246362913397556266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 287
+        width: 83
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a386afff888081ac0800000000000000
+      internalID: -3884345294103877574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 287
+        width: 83
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e61a2e230fa9aae0800000000000000
+      internalID: -1537505369576040728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 287
+        width: 83
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54bdebff7b58ba40800000000000000
+      internalID: 5384153959767061598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_18
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 287
+        width: 84
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714b97d74036cc300800000000000000
+      internalID: 273702548298904599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_19
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 287
+        width: 83
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f09613f079f60c60800000000000000
+      internalID: 7784183269466476787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 31
+        width: 83
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57c3c02629ca6a40800000000000000
+      internalID: 5362319471933638491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 31
+        width: 83
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef6afe68b8850af0800000000000000
+      internalID: -430787863626747930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 31
+        width: 83
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72f620de8c89f1c0800000000000000
+      internalID: -4469386610183048581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 31
+        width: 83
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da34fdb4477d2e80800000000000000
+      internalID: -8201768209243424044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chibi serious highschool boy-idle_24
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 31
+        width: 83
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8befe0c1fbf23630800000000000000
+      internalID: 3905460842626280332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chibi serious highschool boy-idle_0: -8794918592955422502
+      chibi serious highschool boy-idle_1: 7855718318236990306
+      chibi serious highschool boy-idle_10: 1232202491261771650
+      chibi serious highschool boy-idle_11: -1426101705973148231
+      chibi serious highschool boy-idle_12: -1696920041847160568
+      chibi serious highschool boy-idle_13: 7749842086011861044
+      chibi serious highschool boy-idle_14: 2246362913397556266
+      chibi serious highschool boy-idle_15: -3884345294103877574
+      chibi serious highschool boy-idle_16: -1537505369576040728
+      chibi serious highschool boy-idle_17: 5384153959767061598
+      chibi serious highschool boy-idle_18: 273702548298904599
+      chibi serious highschool boy-idle_19: 7784183269466476787
+      chibi serious highschool boy-idle_2: 7029872922739682387
+      chibi serious highschool boy-idle_20: 5362319471933638491
+      chibi serious highschool boy-idle_21: -430787863626747930
+      chibi serious highschool boy-idle_22: -4469386610183048581
+      chibi serious highschool boy-idle_23: -8201768209243424044
+      chibi serious highschool boy-idle_24: 3905460842626280332
+      chibi serious highschool boy-idle_3: 1059690175417517069
+      chibi serious highschool boy-idle_4: 6585664024242178431
+      chibi serious highschool boy-idle_5: 5425631984425755125
+      chibi serious highschool boy-idle_6: 8492672772937713306
+      chibi serious highschool boy-idle_7: -3915760271962120109
+      chibi serious highschool boy-idle_8: 2045575376768499098
+      chibi serious highschool boy-idle_9: -8697532970851217071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
